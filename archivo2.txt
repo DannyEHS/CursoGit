@@ -1,1 +1,2 @@
 Hola soy otro archivo más.
+Hola soy archivo2: Me hicieron cambios.
